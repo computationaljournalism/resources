@@ -18,7 +18,7 @@
 
 [NYTimes](https://developer.nytimes.com/)
 
-Archive, article search, books, geo, most popular, community, movie reviews, tags, top stories, semantic (people, places, orgs, etc)
+> Archive, article search, books, geo, most popular, community, movie reviews, tags, top stories, semantic (people, places, orgs, etc)
 
 [The Guardian](http://open-platform.theguardian.com/)
 
@@ -26,7 +26,7 @@ Archive, article search, books, geo, most popular, community, movie reviews, tag
 
 [newsapi.org](https://newsapi.org/)
 
-_A JSON API for live news and blog headlines. News API indexes articles from over 30,000 worldwide sources._
+> _A JSON API for live news and blog headlines. News API indexes articles from over 30,000 worldwide sources._
 
 [Google News RSS Feeds](https://support.google.com/news/answer/59255?hl=en)
 
@@ -36,19 +36,19 @@ _A JSON API for live news and blog headlines. News API indexes articles from ove
 
 [ProPublica APIs and Data Store](https://www.propublica.org/datastore/apis)
 
-Healthcare, congress, campaign finance, nonprofit explorer, data on ad-buys in 2012 election, schools, Pharma, flood insurance program, bankruptcy, drug prescription, nursing home sanctions, fed stimulus money, political appointees, White House visitor logs, hate crime news stories, Facebook ad categories, 
+> Healthcare, congress, campaign finance, nonprofit explorer, data on ad-buys in 2012 election, schools, Pharma, flood insurance program, bankruptcy, drug prescription, nursing home sanctions, fed stimulus money, political appointees, White House visitor logs, hate crime news stories, Facebook ad categories, 
 
 [OpenFEC](https://api.open.fec.gov/developers/)
 
-_This API allows you to explore the way candidates and committees fund their campaigns._
+> _This API allows you to explore the way candidates and committees fund their campaigns._
 
 [Open States API](http://docs.openstates.org/en/latest/api/)
 
-_Open States provides a JSON API for accessing state legislative information._
+> _Open States provides a JSON API for accessing state legislative information._
 
 [OpenSecrets](https://www.opensecrets.org/open-data)
 
-_This is the entry point for CRP's vast archive of money-in-politics data, downloadable for non-commercial use._
+> _This is the entry point for CRP's vast archive of money-in-politics data, downloadable for non-commercial use._
 
 [US Public Health: healthdata.gov](http://www.healthdata.gov/)
 
